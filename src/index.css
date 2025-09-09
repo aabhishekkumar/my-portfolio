@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Optional: Apply global font */
+body {
+  font-family: 'Satoshi', sans-serif;
+}
